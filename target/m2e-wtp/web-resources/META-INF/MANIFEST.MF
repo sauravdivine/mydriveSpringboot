@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: mydriveboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SauravSingh
+Implementation-Vendor-Id: com.mydrive
+Build-Jdk: 1.8.0_92
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

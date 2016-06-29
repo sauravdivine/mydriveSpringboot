@@ -1,0 +1,8 @@
+com\mydrive\model\LoginModel.class
+com\mydrive\controller\MyDriveController.class
+com\mydrive\config\ApplicationConfigurerAdapter.class
+com\mydrive\userDao\User.class
+com\mydrive\services\UserServices.class
+com\mydrive\MydrivebootApplication.class
+com\mydrive\services\UserServicesBean.class
+com\mydrive\repository\MyDriveRepository.class
